@@ -1,0 +1,4 @@
+baseURL = 'https://shivam.n3y.in/'
+languageCode = 'en-in'
+title = 'Shivam work diary'
+theme = 'github-style'
